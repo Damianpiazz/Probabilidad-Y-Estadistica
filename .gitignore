@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+
+# Entornos de trabajo de Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
